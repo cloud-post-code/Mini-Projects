@@ -15,6 +15,8 @@ I build AI tools for local commerce and small businesses, and I spend the rest o
 | [Product-Recognition-Scanner](https://github.com/cloud-post-code/Product-Recognition-Scanner) | Fine-tuning DINOv2 for duplicate product-image detection. LoRA, hard-negative mining, R@1 from 0.746 to 0.836. |
 | [personal-shopper](https://github.com/cloud-post-code/personal-shopper) | AI shopping assistant for Main Street shops. FastAPI, React, Postgres full-text search, Claude agent with tools and memory. |
 | [Yap-To-Context](https://github.com/cloud-post-code/Yap-To-Context) | Voice notes in, organized document tree out. Next.js, Drizzle, OpenAI. |
+| [Synthetic-Persona-Generator](https://github.com/cloud-post-code/Synthetic-Persona-Generator) | Build, chat with, and run simulations against AI-generated customer personas. React, Express, PostgreSQL, Gemini. |
+| [event-reels](https://github.com/cloud-post-code/event-reels) | Branded vertical reels and recap films from phone clips. ffmpeg, Pillow, Whisper, burned captions. |
 
 ### How I work
 
